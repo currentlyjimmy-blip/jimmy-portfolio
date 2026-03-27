@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/close</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="(m)about_bars" transform="translate(-176.000000, -113.000000)" fill="#B7B7B7" fill-rule="nonzero">
+            <g id="icon/close" transform="translate(176.000000, 113.000000)">
+                <path d="M23.5,24 C23.372,24 23.244,23.951 23.146,23.854 L0.146,0.854 C-0.049,0.659 -0.049,0.342 0.146,0.147 C0.341,-0.048 0.658,-0.048 0.853,0.147 L23.853,23.147 C24.048,23.342 24.048,23.659 23.853,23.854 C23.756,23.951 23.628,24 23.5,24 Z" id="Shape"/>
+                <path d="M0.5,24 C0.372,24 0.244,23.951 0.146,23.854 C-0.049,23.659 -0.049,23.342 0.146,23.147 L23.146,0.147 C23.341,-0.048 23.658,-0.048 23.853,0.147 C24.048,0.342 24.048,0.659 23.853,0.854 L0.853,23.854 C0.756,23.951 0.628,24 0.5,24 Z" id="Shape"/>
+            </g>
+        </g>
+    </g>
+</svg>
